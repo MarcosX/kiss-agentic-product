@@ -1,0 +1,16 @@
+{
+  "skill_name": "prototyping-concepts",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I have a solution idea and need to test if it solves the problem. Help me prototype to learn.",
+      "expected_output": "Assumptions, cheapest test, learnings plan",
+      "expectations": [
+        "Lists testable assumptions",
+        "Starts with low-fi/cheapest way",
+        "Focuses on learning not polish",
+        "Captures learnings for decision"
+      ]
+    }
+  ]
+}

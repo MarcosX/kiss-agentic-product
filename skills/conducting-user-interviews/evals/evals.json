@@ -1,0 +1,16 @@
+{
+  "skill_name": "conducting-user-interviews",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I need to interview users about their workflow. Help me plan and run it.",
+      "expected_output": "Interview plan with open-ended questions and synthesis plan",
+      "expectations": [
+        "Uses open-ended questions",
+        "Avoids leading questions",
+        "Plans to capture evidence/quotes",
+        "Produces themes from insights"
+      ]
+    }
+  ]
+}

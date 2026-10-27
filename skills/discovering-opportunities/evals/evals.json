@@ -1,0 +1,16 @@
+{
+  "skill_name": "discovering-opportunities",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I have some user notes from support chats. Help me find opportunities.",
+      "expected_output": "JTBD-focused opportunities with evidence and themes",
+      "expectations": [
+        "Stays in problem space",
+        "Separates needs from solutions",
+        "Captures evidence per opportunity",
+        "Produces themes"
+      ]
+    }
+  ]
+}

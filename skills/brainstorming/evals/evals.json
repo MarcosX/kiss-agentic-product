@@ -1,0 +1,16 @@
+{
+  "skill_name": "brainstorming",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I have an idea for a feature but I'm not sure if it's needed. Help me figure out if it's worth doing.",
+      "expected_output": "Problem framing with needs vs solutions, evidence, and handoff-ready problem statement",
+      "expectations": [
+        "Separates needs from solutions",
+        "Asks for or identifies evidence",
+        "Produces problem statement and scope",
+        "Mentions handoff to writing-plans"
+      ]
+    }
+  ]
+}
