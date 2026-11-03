@@ -1,6 +1,6 @@
 # Glossary Interaction
 
-How to interact with CONTEXT.md — the project's domain glossary — during a brainstorming session.
+How to interact with CONTEXT.md — the project's domain glossary — during a problem-framing session.
 
 ## Load before questioning
 

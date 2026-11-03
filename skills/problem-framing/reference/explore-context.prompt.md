@@ -1,6 +1,6 @@
 ---
 name: explore-context
-description: Prompt template for dispatching a subagent to explore codebase context during brainstorming
+description: Prompt template for dispatching a subagent to explore codebase context during problem-framing
 ---
 
 Paste into the subagent prompt, filling in bracketed sections:
