@@ -1,5 +1,5 @@
 ---
-name: brainstorming
+name: problem-framing
 description: Use when exploring product ideas and framing problems before implementation. Covers problem framing, opportunities, and requirements discovery.
 ---
 

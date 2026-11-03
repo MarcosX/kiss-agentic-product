@@ -18,10 +18,10 @@ A response without this line is non-compliant; rewrite it before sending.
 Load a skill whenever there is any chance it applies, not only when you're sure. The signal scan is the floor, not the ceiling.
 
 - bug, error, crash, fail, unexpected → `debugging`
-- idea, approach, explore, design → `brainstorming`
-- plan, implement, build, add, feature → `writing-plans`
+- idea, approach, explore, design → `problem-framing`
+- plan, implement, build, add, feature → `writing-plans` (in kiss-agentic-development)
 
-Process skills first (`brainstorming`, `debugging`), implementation skills after.
+Process skills first (`problem-framing`, `debugging`), implementation/planning skills after.
 
 ## After loading
 
