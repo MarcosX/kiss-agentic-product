@@ -36,8 +36,9 @@ Product workflow follows Discover → Define:
 - `problem-framing` — Explore ideas and frame problems before implementation. Produces a handoff-ready problem statement and scope.
 - `discovering-opportunities` — Identify user needs and opportunities through JTBD-focused research. Stays in problem space, separates needs from solutions, captures evidence and themes.
 - `conducting-user-interviews` — Plan and conduct conversational discovery interviews. Uses open-ended questions, probes jobs/context/pain points, and synthesizes insights into themes with evidence.
-- `prioritizing-opportunities` — Prioritize opportunities using explicit criteria with rationale and trade-offs. Documents reasoning for ranking decisions.
 - `prototyping-concepts` — Validate hypotheses with the cheapest way to learn (low-fi first). Focuses on testing assumptions, not polish, and captures learnings for go/no-go decisions.
+
+Scope is decided during definition: each PRD states what is in and what is out. There is no separate prioritization skill or ranked backlog.
 
 ## Installation
 
