@@ -9,6 +9,6 @@ description: Use when identifying user needs and opportunities through JTBD-focu
 3. **Find jobs** — identify jobs to be done and pain points.
 4. **Separate needs from solutions** — list needs/opportunities, not features.
 5. **Synthesize themes** — group into themes with supporting evidence.
-6. **Output** — opportunity list with evidence for handoff.
+6. **Output** — write `opportunities.md` to `problem-framing`'s gitignored short-term plans directory (for example `plans/discovery/`), or the current directory when used standalone, for handoff. Each entry carries its need, job, evidence quote, theme, and confidence; an entry without a quote is an assumption with low confidence, never an invented quote.
 
 Focus on problem space. Do not propose full solutions yet.
