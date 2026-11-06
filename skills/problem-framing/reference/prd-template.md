@@ -6,9 +6,17 @@ Use when writing the PRD after user approval of the approach. Scale sections to 
 
 The problem the user is facing, from their perspective.
 
+## Evidence
+
+Concrete observations, quotes, and their sources. One line per theme, linked to `opportunities.md`. If no human evidence exists, say so and record the assumption instead.
+
 ## Solution
 
 The solution to the problem, from the user's perspective.
+
+## Success Criteria
+
+Measurable outcomes that prove the problem is solved from the user's perspective.
 
 ## User Stories
 
@@ -35,9 +43,13 @@ Tie each decision to the story or stories it serves, and state why the path was 
 
 Tie each decision to the story it serves with a `Chosen because` line when it maps to a specific story.
 
-## Out of Scope
+## Prioritized Scope (In/Out)
 
-What is deliberately not covered by this design, and why — deferred, rejected, or unnecessary. A fresh reader must be able to tell a deliberate cut from an omission.
+What is in this slice and what is deliberately out. A fresh reader must be able to tell a deliberate cut from an omission. State why each out item is deferred, rejected, or unnecessary. Scope is the prioritization mechanism: inclusion and exclusion decisions, not a ranked backlog.
+
+## Assumptions & Risks
+
+Assumptions the design depends on, and what breaks if each is wrong. Note which are validated and which remain open.
 
 ## Further Notes
 
