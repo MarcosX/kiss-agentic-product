@@ -9,6 +9,8 @@
         "Separates needs from solutions",
         "Asks for or identifies evidence",
         "Produces problem statement and scope",
+        "Writes context and opportunity artifacts before the PRD, and interview notes only when a human is interviewed",
+        "PRD includes evidence, success criteria, assumptions & risks, and in/out scope",
         "Mentions handoff to writing-plans"
       ]
     }
