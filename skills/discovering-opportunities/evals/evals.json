@@ -4,12 +4,14 @@
     {
       "id": 1,
       "prompt": "I have some user notes from support chats. Help me find opportunities.",
-      "expected_output": "JTBD-focused opportunities with evidence and themes",
+      "expected_output": "JTBD-focused opportunities with evidence, themes, and an opportunities artifact",
       "expectations": [
         "Stays in problem space",
         "Separates needs from solutions",
         "Captures evidence per opportunity",
-        "Produces themes"
+        "Produces themes",
+        "Records need, job, evidence quote, theme, and confidence for each opportunity",
+        "Writes an opportunities artifact with one entry per opportunity"
       ]
     }
   ]
